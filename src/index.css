@@ -1,0 +1,16 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+ }
+ 
+ * {
+    font-family: myFirstFont;
+ }
+ 
+.previewWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+  
