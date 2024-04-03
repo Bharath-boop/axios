@@ -1,8 +1,13 @@
-# React + Vite
+Axios Fetching using mockAPI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple CURD Opration website
 
-Currently, two official plugins are available:
+mockApi Url-'https://6607bc4ba2a5dd477b135683.mockapi.io/Axios'
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.Creation- cration form display fill the your data.
+
+2.Read- Display all data in the Dashboard.
+
+3.updates- in the dashboard see the Edit button yours simplely update your data.
+
+4.delete -in the dashboard see the delete button your delete the records.
